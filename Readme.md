@@ -143,3 +143,4 @@
 
 ### Other links
 * [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
+* [Interviews utility](https://mmazzarolo.com/blog/2022-03-12-lavorare-da-remoto-per-aziende-tech-estere/#:~:text=Interview%20process%20in%20FAANG%2B)
