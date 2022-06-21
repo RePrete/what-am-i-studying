@@ -140,3 +140,6 @@
 * [Yahoo Engineering Blog](http://yahooeng.tumblr.com/)
 * [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
 * [Zynga Engineering Blog](https://www.zynga.com/blogs/engineering)
+
+### Other links
+* [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
